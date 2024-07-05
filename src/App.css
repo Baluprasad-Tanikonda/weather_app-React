@@ -1,0 +1,63 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+html{
+background:linear-gradient(90deg,black,white);
+height: 100vh;
+
+}
+.app{
+  background:linear-gradient(90deg,rgba(0, 0, 0, 0.374),white);
+  text-align: center;
+  margin:auto;
+  width: 500px;
+  margin-top: 100px;
+  height: 350px;
+  padding-top: 15px; 
+}
+h1{
+  margin-top: 10px;
+  font-family:'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+.app-card input{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  width: 200px;
+  height: 32px;
+  font-size: 20px;
+  padding-left: 5px;
+  margin-top: 30px;
+  outline: none;
+  border-radius:10px  0px 0px 10px;
+}
+.app-card button{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 20px;
+  width: 50px;
+  height: 35px;
+  cursor: pointer;
+  color: white;
+  background-color:black;
+  border: none;
+  border-radius:0px 10px  10px 0px;
+}
+ .container {
+  margin-top: 20px;
+  text-align: center;
+} 
+.container .name{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.temp{
+  font-family:'Times New Roman', Times, serif;
+  font-size: 50px;
+}
+span{
+  font-size: 35px;
+}
+
+
+
